@@ -1,0 +1,6 @@
+*.ini
+x64
+Release
+.vs
+*.user
+/dependencies/glew/bin
