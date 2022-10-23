@@ -6,7 +6,7 @@ Por ahora solo funciona en Windows, aunque portarlo a Linux no deberia ser dific
 
 Es basicamente un programa que permite agregar demos graficas que usen OpenGL.
 
-Tiene las siguientes pruebas:
+Tiene las siguientes demos:
 
 - Clear Color (Cambiar el color de la pantalla)
 - Carga de Texturas 2D
@@ -63,4 +63,5 @@ git clone https://github.com/jorgesc231/prueba_opengl.git
 - Agregar demos de renderizado de texto
 - Agregar demos 3D
 - Soporte de OpenGL ES
+- Soporte WebGL
 
