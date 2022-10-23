@@ -23,7 +23,7 @@ Aunque usa OpenGL 3.3 Core  pude hacerlo funcionar en mi PC que solo soporta Ope
 
 ## Uso
 
-Descargar de Releases o (Aquí)[https://github.com/jorgesc231/prueba_opengl/releases/download/v0.1.0/prueba_opengl_windows.zip] 
+Descargar de Releases o [Aquí](https://github.com/jorgesc231/prueba_opengl/releases/download/v0.1.0/prueba_opengl_windows.zip)
 o compilarlo con las instrucciones de mas abajo.
 
 Al ejecutarlo muestra un menu para abrir las demos.
