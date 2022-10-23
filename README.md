@@ -1,6 +1,6 @@
 # Demos de programacion grafica con OpenGL
 
-Estos son mis primeros intentos de aprender a usar OpenGL en Windows.
+Mi primer intento de aprender a usar OpenGL en Windows.
 
 Por ahora solo funciona en Windows, aunque portarlo a Linux no deberia ser dificil.
 
@@ -27,7 +27,7 @@ Descargar el .exe de Releases o compilarlo con las instrucciones de mas abajo.
 
 Al abrirlo muestra un menu para abrir las demos.
 
-Elegir cualquierda y usar la interfaz grafica para interactuar.
+Elegir cualquiera y usar la interfaz grafica para interactuar.
 
 
 ## Dependencias
@@ -46,18 +46,12 @@ Todas las dependencias estan incluidas en el repositorio.
 1. Clonar el repositorio:
 
 ```
-git clone 
+git clone https://github.com/jorgesc231/prueba_opengl.git
 ```
 
-2. Cambiar al directorio
+2. Ingresar a la carpeta y abrir la solucion: OpenGL_tests.sln
 
-```
-cd 
-```
-
-3. Abrir la solucion: OpenGL_tests.sln
-
-4. Compilar y ejecutar.
+3. Compilar y ejecutar.
 
 
 ## Por hacer
